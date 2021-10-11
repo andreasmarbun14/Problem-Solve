@@ -1,4 +1,4 @@
 # Problem-Solve
-Berisi Problem solve setiap masalah
+Ini merupakan problem solve project 1
 
 ## AndreasMarbun-Project
