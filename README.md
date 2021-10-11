@@ -1,5 +1,4 @@
 # Problem-Solve
-Berisi Problem solve setiap masalah
+Ini merupakan problem solve project 5
 
-## Link Ke Problem 1
-Link : https://github.com/andreasmarbun14/Problem-Solve/tree/Problem-1
+## AndreasMarbun-Project
